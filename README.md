@@ -3,6 +3,13 @@
     Website used for testing is: https://opensource-demo.orangehrmlive.com/
     This repo uses Maven as build tool and TestNG testing framework to run the tests.
     
+    Tools Used:
+    1.Programming Language: Java
+    2.Web Automation Tool: Selenium WebDriver(latest version)
+    3.WebDriverManager is used for managing the drivers.
+    4.Test Runner: TestNG
+    5.Build Tool: Maven
+    
     Scenarios covered in this project:
      1. code to login and logout using Selenium
      2. Password reset
